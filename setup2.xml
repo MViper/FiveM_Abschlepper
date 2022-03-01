@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SSetupData>
+  <deviceName>dlc_flatbedm2</deviceName>
+  <datFile>content.xml</datFile>
+  <timeStamp>31/10/2017 09:55:00</timeStamp>
+  <nameHash>flatbedm2</nameHash>
+  <contentChangeSetGroups>
+    <Item>
+      <NameHash>GROUP_STARTUP</NameHash>
+      <ContentChangeSets>
+        <Item>flatbedm2_AUTOGEN</Item>
+        <Item>flatbedm2_UNLOCKS_AUTOGEN</Item>
+      </ContentChangeSets>
+    </Item>
+  </contentChangeSetGroups>
+  <type>EXTRACONTENT_COMPAT_PACK</type>
+  <order value="31" />  
+</SSetupData>
